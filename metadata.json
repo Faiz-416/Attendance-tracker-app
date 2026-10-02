@@ -1,0 +1,6 @@
+{
+  "name": "Attendance Tracker",
+  "description": "Minimalist dark attendance manager with ChatGPT timetable extraction, accurate predictions, calendar tracking, and offline persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
